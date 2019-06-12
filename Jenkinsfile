@@ -22,5 +22,7 @@
     Example: jenkinsBuilder platforms: []
  */
 
+@Library('skymind@bugfix/dl4j-tests') _
+
 jenkinsBuilder()
 
